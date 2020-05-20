@@ -1,10 +1,9 @@
 @media screen and (max-width:419px) {
 
-  .row {
+.row {
     width: 100%;
     margin: 0 auto;
 }
-
 #lezioni .row>.left,
 #lezioni .row>.right, #steps .row>.left,
 #steps .row>.central,
@@ -12,12 +11,9 @@
   width: 100%;
   float: none;
 }
-
 img {
   max-width: 100%;
-
 }
-
 h3{
   font-size: 26px;
 }
@@ -25,4 +21,6 @@ h3{
 .left, .central, .right, .first, .second, .third{
   margin-bottom: 50px;
   font-size: 20px;
+}
+
 }
