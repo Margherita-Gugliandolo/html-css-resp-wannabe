@@ -16,11 +16,17 @@ img {
 }
 h3{
   font-size: 26px;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .left, .central, .right, .first, .second, .third{
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   font-size: 20px;
+}
+
+#why .row>.first{
+  margin-top: 5px;
 }
 
 }
