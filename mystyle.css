@@ -17,3 +17,12 @@ img {
   max-width: 100%;
 
 }
+
+h3{
+  font-size: 26px;
+}
+
+.left, .central, .right, .first, .second, .third{
+  margin-bottom: 50px;
+  font-size: 20px;
+}
